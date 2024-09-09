@@ -1,0 +1,4 @@
+{
+    "testRepo": "amount-of-days-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
